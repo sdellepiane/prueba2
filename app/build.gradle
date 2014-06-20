@@ -7,7 +7,7 @@ android {
     defaultConfig {
         applicationId "com.onlineapps.FullCine.prueba"
         minSdkVersion 9
-        targetSdkVersion 19
+        targetSdkVersion 14
         versionCode 1
         versionName "1.0"
     }
