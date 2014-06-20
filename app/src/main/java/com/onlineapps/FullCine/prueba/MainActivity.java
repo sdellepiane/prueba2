@@ -9,13 +9,11 @@ import java.util.ArrayList;
 
 
 public class MainActivity extends ActionBarActivity {
-    private ArrayList<String> gg;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        gg.add("ola");
     }
 
 
